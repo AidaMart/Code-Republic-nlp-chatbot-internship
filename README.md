@@ -1,1 +1,3 @@
 # Code-Republic-nlp-chatbot-internship
+
+Welcome to my GitHub repository dedicated to the NLP Chatbot Internship at Picsart Academy's Code Republic Lab! Within this repository, you'll discover folders representing various tasks we delved into during our exploration of Natural Language Processing (NLP) techniques. We delved into a range of topics, including text data preprocessing techniques and the exploration of various transformer models of Hugging Face. 
